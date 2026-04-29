@@ -1,34 +1,25 @@
 # Hi, I'm Naza1144 🚀
 
-I am a **DevOps Engineer** and **Full-Stack Developer** currently studying at **Ubon Ratchathani University**. I specialize in building high-performance systems, mastering container orchestration, and architecting secure, scalable microservices.
+I am a **DevOps Engineer** and **Full-Stack Developer** studying at **Ubon Ratchathani University**. I focus on building high-performance systems, container orchestration, and scalable microservices.
 
-### 🔬 Featured Research: AI-Driven Meat Quality Analysis
-
-I have conducted research focused on food technology optimization using Deep Learning to evaluate meat quality. This project involved a rigorous comparison between two prominent Convolutional Network architectures:
-
-*   **Model Implementation:** Primary development utilized **PyTorch** for constructing and training deep learning pipelines.
-*   **ResNet18 Implementation:** Leveraged residual learning and skip connections to mitigate the vanishing gradient problem.
-*   **VGG19 Implementation:** Utilized a deeper, uniform architecture with $3 \times 3$ convolutional filters to capture complex spatial features in meat texture.
-*   **Methodology:** Developed a pipeline to distinguish between fresh and spoiled products by analyzing color variance and textural patterns.
-*   **Automated Logistics:** Integrated a hybrid system using **YOLO** for real-time label detection and **CRNN** for automated expiration date recognition (OCR).
+### 🔬 Research Project: Meat Quality Analysis
+I developed an AI system to analyze meat quality by comparing **ResNet18** and **VGG19** models. The project was built using **PyTorch** and includes an automated expiration detection pipeline using **YOLO** and **CRNN**.
 
 ### 🛠 Technical Expertise
 
 **Infrastructure & DevOps**
-*   **Containerization:** Skilled in managing **Docker** lifecycles and lightweight orchestration with **k3s**.
-*   **System Admin:** Proficient in **Linux** environments and system automation.
-*   **Networking:** Implementing high-speed communication via **gRPC**, **HTTPS**, and **API Gateways**.
+*   **Containerization:** Managing **Docker** and **k3s** orchestration.
+*   **System Admin:** Proficient in **Linux** environments and automation.
+*   **Networking:** Implementing **gRPC**, **HTTPS**, and **API Gateways**.
 
 **Development & Security**
-*   **Languages:** Specialized in **Python** for backend and **JavaScript/TypeScript** for modern web applications.
-*   **Frontend:** Building modern, responsive UIs using **Tailwind CSS**.
-*   **Security:** Focused on implementing **Web Security** tools and protecting backend infrastructures.
+*   **Languages:** Specialized in **Python** and **JavaScript/TypeScript**.
+*   **Backend:** Developing with **FastAPI** and **SQLModel**.
+*   **Security:** Implementing **Web Security** and protecting backend infrastructures.
 
 ---
 
-| | | | | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" alt="Docker" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="40" alt="Kubernetes" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" alt="Linux" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" alt="Python" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="40" alt="FastAPI" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" alt="JS" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" alt="Tailwind" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" alt="PostgreSQL" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="40" alt="PyTorch" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" alt="VS Code" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" width="40" alt="PyTorch" /> |
+| | | | | | | | | | | | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" alt="Docker" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="40" alt="Kubernetes" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" alt="Linux" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" alt="Python" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="40" alt="FastAPI" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" alt="JS" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" alt="Tailwind" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" alt="PostgreSQL" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="40" alt="PyTorch" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" alt="VS Code" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" width="40" alt="PyTorch" /> |
 
 ---
 
