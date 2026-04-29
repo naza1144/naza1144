@@ -1,9 +1,8 @@
-# Hi, I'm Naza1144 🚀
-
-<!-- ตำแหน่งแทรกภาพ: Header Banner -->
 <p align="center">
-  <img src="https://path-to-your-image/banner.png" alt="Naza1144 Banner" width="100%" />
+  <img src="[https://path-to-your-image/banner.png](https://media.discordapp.net/attachments/1499109650274975766/1499109687541629050/Screenshot_2026-04-07_143216.png?ex=69f39a31&is=69f248b1&hm=5a9af1da6e2137785886dc30c54774e740809432fb1697b6de85b428bde5fa3b&=&format=webp&quality=lossless)" alt="Naza1144 Banner" width="100%" />
 </p>
+
+# Hi, I'm Naza1144 🚀
 
 I am a DevOps Engineer and Developer currently studying at **Ubon Ratchathani University**. I focus on building high-quality systems, implementing robust automation, and gaining extensive experience in cloud-native technologies.
 
