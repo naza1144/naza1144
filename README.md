@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trulyao/Trulyao/main/assets/leaves.gif" width="100%" />
-</p>
-
 # Hi, I'm Naza1144 🚀
 
 I am a DevOps Engineer and Developer currently studying at **Ubon Ratchathani University**. I focus on building high-quality systems, implementing robust automation, and gaining extensive experience in cloud-native technologies.
