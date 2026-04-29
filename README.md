@@ -52,3 +52,12 @@ I am a DevOps Engineer and Developer currently studying at **Ubon Ratchathani Un
 </p>
 
 📍 Based in Ubon Ratchathani, Thailand
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=Learning%20is%20Growing&fontSize=30&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<!-- ส่วนของใบไม้ตก (Falling Leaves) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp4Zmt6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBjdXN0b20mY3Q9cw/vXpS6S6S6S6S6/giphy.gif" width="100%" />
+</p>
