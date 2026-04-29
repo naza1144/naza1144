@@ -4,7 +4,7 @@ I am a **DevOps Engineer** and **Full-Stack Developer** currently studying at **
 
 ### 🔬 Featured Research: AI-Driven Meat Quality Analysis
 
-I have conducted research focused on food technology optimization using Deep Learning to evaluate meat quality. This project involved a rigorous comparison between two prominent Convolutional Neural Network (CNN) architectures:
+I have conducted research focused on food technology optimization using Deep Learning to evaluate meat quality. This project involved a rigorous comparison between two prominent Convolutional Network architectures:
 
 *   **Model Implementation:** Primary development utilized **PyTorch** for constructing and training deep learning pipelines.
 *   **ResNet18 Implementation:** Leveraged residual learning and skip connections to mitigate the vanishing gradient problem.
