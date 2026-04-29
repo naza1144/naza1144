@@ -1,5 +1,10 @@
 # Hi, I'm Naza1144 🚀
 
+<!-- ตำแหน่งแทรกภาพ: Header Banner -->
+<p align="center">
+  <img src="https://path-to-your-image/banner.png" alt="Naza1144 Banner" width="100%" />
+</p>
+
 I am a DevOps Engineer and Developer currently studying at **Ubon Ratchathani University**. I focus on building high-quality systems, implementing robust automation, and gaining extensive experience in cloud-native technologies.
 
 ### 🛠 Technical Skills
